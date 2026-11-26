@@ -1,0 +1,8 @@
+{
+  "gamma": 0.02,
+  "lambda_depth": 5.0,
+  "sample_fps": 2.0,
+  "max_frames": 9,
+  "resize_width": 512,
+  "max_objects": 2
+}
